@@ -87,4 +87,3 @@ Designed for Windows using `pyaudiowpatch` for WASAPI loopback support, it serve
 ## 📄 License
 
 This project is open source. Feel free to modify and distribute as needed.
-```
