@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-"""
-WAVE — Minimal System Audio Recorder & Trimmer
-Requires: pip install PyQt6 pyaudiowpatch numpy soundfile
-  (pyaudiowpatch is a drop-in PyAudio replacement with WASAPI loopback support)
-"""
-
 import sys
 import time
 import threading
