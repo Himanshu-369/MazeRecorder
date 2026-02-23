@@ -37,7 +37,8 @@ Designed for Windows using `pyaudiowpatch` for WASAPI loopback support, it serve
 
 |Trim Section (Active)|
 |:---:|
-|<img width="449" height="628" alt="4" src="https://github.com/user-attachments/assets/66cf6d75-0530-4e5b-a979-da4b37a29601" />|
+|<img width="100%" height="100%" alt="4" src="https://github.com/user-attachments/assets/1c1b3905-32ee-41ab-a734-030fd3da92d8" />|
+|<img width="100%" height="100%" alt="4" src="https://github.com/user-attachments/assets/66cf6d75-0530-4e5b-a979-da4b37a29601" />|
 
 
 ---
@@ -92,7 +93,7 @@ Before recording, click the **⚙️ Settings** button in the top-right corner o
 5. Click **✂ Trim and Save** to export the selection as a new file.
 
 ### Future Changes 
-- [ ] Renaming functionality (to rename a file in gui)
+- [ ] Renaming functionality (to rename file within gui)
 - [x] Option to change file name saving pattern (eg. filename_1.wav, filename_2.wav, ...)
 - [ ] Support for saving files in various extensions (.wav, mp3, .wma, etc.)
 
