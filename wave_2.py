@@ -956,7 +956,7 @@ class TrimTab(QWidget):
         top_ctrl_row = QHBoxLayout()
         self.play_btn = QPushButton("⏵ PLAY")
         self.play_btn.setObjectName("primary")
-        self.play_btn.setFixedSize(90, 36)
+        self.play_btn.setFixedSize(100, 36)
         self.play_btn.clicked.connect(self._toggle_play)
 
         self.loop_btn = QPushButton("🔁 LOOP")
@@ -1190,4 +1190,5 @@ def main():
     sys.exit(app.exec())
 
 if __name__ == "__main__":
+
     main()
