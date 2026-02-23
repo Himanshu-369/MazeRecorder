@@ -31,13 +31,13 @@ Designed for Windows using `pyaudiowpatch` for WASAPI loopback support, it serve
 |:---:|:---:|
 |<img width="100%" height="100%" alt="1" src="https://github.com/user-attachments/assets/ba365d2a-c77b-48b6-be8d-3722faf83087" />|<img width="100%" height="100%" alt="2" src="https://github.com/user-attachments/assets/eedc0a14-7878-45c8-99d8-003d9c1bce81" />|
 
-|Naming Syntax Settings|
+|Settings for Filename Syntaz|
 |:---:|
 |<img width="100%" height="100%" alt="3" src="https://github.com/user-attachments/assets/51563a5a-d4cf-4da6-bcd6-dd87bf8787ce" />|
 
 |Trim Section (Active)|
 |:---:|
-|<img width="100%" height="100%" alt="4" src="https://github.com/user-attachments/assets/fa390e9d-e515-4dc4-a2f8-537f16a0ea77" />|
+|<img width="100%" height="100%" alt="4" src="https://github.com/user-attachments/assets/1c1b3905-32ee-41ab-a734-030fd3da92d8" />|
 
 
 ---
